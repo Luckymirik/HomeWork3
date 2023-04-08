@@ -127,6 +127,7 @@ public class Main {
 
 
     }
+
     public static void task8() {
         System.out.println("Задача 8");
         int masha=67760;
